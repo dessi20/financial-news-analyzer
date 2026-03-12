@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Database
+*.db
+
+# Environment
+.env
+
+# Pytest
+.pytest_cache/
+
+# Claude
+.claude/
